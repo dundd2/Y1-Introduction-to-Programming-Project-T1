@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=College
+comment1.params=numStudents\ numBooks
+comment1.target=College(int,\ int)
+comment2.params=
+comment2.target=void\ describe()
+comment3.params=
+comment3.target=void\ nextStep()
+comment4.params=nSteps
+comment4.target=void\ runCollege(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
