@@ -1,13 +1,19 @@
 #BlueJ class context
 comment0.target=College
+comment0.text=\r\n\ The\ College\ class\ simulates\ a\ college\ with\ a\ library\ and\ students.\ \r\n\ @author\ dncan\r\n\ @version\ 1.0\ \r\n
 comment1.params=numStudents\ numBooks
 comment1.target=College(int,\ int)
+comment1.text=\r\n\ Constructor\ to\ initialize\ a\ new\ College\ object.\r\n\ @param\ numStudents\ Number\ of\ enrolled\ students\ \ \ \r\n\ @param\ numBooks\ Number\ of\ textbooks\ in\ library\ \ \r\n
 comment2.params=
 comment2.target=void\ describe()
+comment2.text=\r\n\ Prints\ a\ simple\ description\ of\ the\ college\ state\r\n
 comment3.params=
 comment3.target=void\ nextStep()
+comment3.text=\r\n\ Advances\ the\ simulation\ by\ one\ step\:\ \ \r\n\ -\ Select\ random\ student\r\n\ -\ Check\ if\ they\ graduated\ \r\n\ -\ If\ not,\ student\ studies\r\n
 comment4.params=nSteps
 comment4.target=void\ runCollege(int)
+comment4.text=\r\n\ Runs\ the\ simulation\ for\ given\ number\ of\ steps\ \ \r\n\ @param\ nSteps\ Number\ of\ steps\ \ \ \r\n
 comment5.params=args
 comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ method\ to\ run\ the\ college\ simulation\ \r\n\ @param\ args\ Command\ line\ params\r\n
 numComments=6

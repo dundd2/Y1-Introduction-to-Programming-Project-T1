@@ -1,13 +1,19 @@
 #BlueJ class context
 comment0.target=Library
+comment0.text=\r\n\ Represents\ a\ library\ containing\ books\ \ \ \r\n\ @author\ duncan\r\n\ @version\ 1.0\ \ \r\n
 comment1.params=maxBooks
 comment1.target=Library(int)
+comment1.text=\r\n\ Constructor\ to\ initialize\ a\ new\ Library\r\n\ @param\ maxBooks\ Max\ capacity\ of\ books\r\n
 comment2.params=
 comment2.target=LibraryCard\ issueCard()
+comment2.text=\r\n\ Issues\ new\ library\ card\r\n\ @return\ The\ new\ library\ card\r\n
 comment3.params=card
 comment3.target=TextBook\ borrowBook(LibraryCard)
+comment3.text=\r\n\ Borrows\ book\ using\ given\ library\ card\r\n\ @param\ card\ The\ library\ card\r\n\ @return\ The\ borrowed\ textbook,\ null\ if\ invalid\ card\ or\ no\ books\ left\r\n
 comment4.params=book
 comment4.target=void\ returnBook(TextBook)
+comment4.text=\r\n\ Returns\ a\ book\ to\ the\ library\ \r\n\ @param\ book\ The\ textbook\ to\ return\r\n
 comment5.params=
 comment5.target=void\ describe()
+comment5.text=\r\n\ Prints\ out\ description\ of\ library\ state\ \ \r\n
 numComments=6

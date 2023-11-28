@@ -1,17 +1,25 @@
 #BlueJ class context
 comment0.target=TextBook
+comment0.text=\ \ \r\n\ Represents\ a\ textbook\ in\ the\ library\r\n\ @author\ duncan\ \ \ \r\n\ @version\ 1.0\r\n
 comment1.params=title\ length
 comment1.target=TextBook(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ to\ initialize\ new\ TextBook\r\n\ @param\ title\ Title\ of\ book\r\n\ @param\ length\ Number\ of\ chapters\ \ \r\n
 comment2.params=
 comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Gets\ the\ book\ title\ \ \r\n\ @return\ Title\ as\ string\r\n
 comment3.params=
 comment3.target=void\ readNextChapter()
+comment3.text=\r\n\ Reads\ the\ next\ chapter\ \r\n
 comment4.params=
 comment4.target=boolean\ isFinished()
+comment4.text=\r\n\ Checks\ if\ all\ chapters\ read\r\n\ @return\ True\ if\ all\ read,\ false\ otherwise\ \ \r\n
 comment5.params=
 comment5.target=void\ closeBook()
+comment5.text=\r\n\ Resets\ a\ finished\ book\ to\ initial\ unused\ state\r\n
 comment6.params=
 comment6.target=void\ describe()
+comment6.text=\ \r\n\ Prints\ description\ of\ book\ state\ \r\n
 comment7.params=
 comment7.target=int\ getChaptersLeft()
+comment7.text=\r\n\ Gets\ number\ of\ chapters\ left\r\n\ @return\ Chapters\ left\r\n
 numComments=8

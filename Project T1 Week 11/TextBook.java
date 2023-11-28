@@ -1,47 +1,76 @@
-//the TextBook class represents a textbook in the library
+/**  
+ * Represents a textbook in the library
+ * @author duncan   
+ * @version 1.0
+*/
 public class TextBook {
-    //fields to store the title, length, and last chapter read of the book
+
+    /** Title of the textbook */
     private String title;
+    
+    /** Number of chapters */
     private int length;
+    
+    /** Last chapter read */ 
     private int lastChapterRead;
 
-    //constructor to initialize a new TextBook object
+    /**
+     * Constructor to initialize new TextBook
+     * @param title Title of book
+     * @param length Number of chapters  
+     */
     public TextBook(String title, int length) {
         this.title = title;
         this.length = length;
-        this.lastChapterRead = 0;  //Initially, no chapters have been read
+        this.lastChapterRead = 0;  
     }
 
-    //method to get the title of the book
+    /**
+     * Gets the book title  
+     * @return Title as string
+     */
     public String getTitle() {
         return this.title;
     }
 
-    //method to 'read' the next chapter of the book
+    /**
+     * Reads the next chapter 
+     */
     public void readNextChapter() {
         if (this.lastChapterRead < this.length) {
-            this.lastChapterRead++;  //If there are chapters left,increment lastChapterRead
+            this.lastChapterRead++;  
         } else {
-            System.out.println("Warning: No more chapters left to read!");  //Otherwise, print a warning
+            System.out.println("Warning: No more chapters left to read!");
         }
     }
 
-    //method to check if the book is finished
+    /**
+     * Checks if all chapters read
+     * @return True if all read, false otherwise  
+     */
     public boolean isFinished() {
-        return this.lastChapterRead == this.length;  //The book is finished if all chapters have been read
+        return this.lastChapterRead == this.length;
     }
 
-    //method to 'close' the book, resetting it to its initial state
+    /**
+     * Resets a finished book to initial unused state
+     */
     public void closeBook() {
-        this.lastChapterRead = 0;  //Reset lastChapterRead to 0
+        this.lastChapterRead = 0;
     }
 
-    //method to print a description of the book
+    /** 
+     * Prints description of book state 
+     */
     public void describe() {
-        int chaptersLeft = this.length - this.lastChapterRead;  //Calculate the number of chapters left
-        System.out.println(this.title + " with " + chaptersLeft + " chapters left to read");  //Print the description
+        int chaptersLeft = this.length - this.lastChapterRead;
+        System.out.println(this.title + " with " + chaptersLeft + " chapters left to read");
     }
     
+    /**
+     * Gets number of chapters left
+     * @return Chapters left
+     */
     public int getChaptersLeft() {
         return this.length - this.lastChapterRead;
     }

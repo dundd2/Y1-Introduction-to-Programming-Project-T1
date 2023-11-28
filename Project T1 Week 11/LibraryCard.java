@@ -1,30 +1,51 @@
-//the LibraryCard class represents a library card that can be used to borrow books
+/**
+ * Represents a library card used to borrow books  
+ * @author duncan
+ * @version 1.0
+*/
 class LibraryCard {
-    //fields to store the borrowing limit, number of books borrowed, and card reference
+
+    /** Borrowing limit */
     private int limit;
+    
+    /** Number of books borrowed */ 
     private int borrowed;
+    
+    /** Card reference ID */
     private String cardRef;
 
-    //constructor to initialize a new LibraryCard object
+    /**
+     * Constructor to initialize a new LibraryCard  
+     * @param limit Borrowing limit
+     * @param cardNum Card number
+     */
     public LibraryCard(int limit, int cardNum) {
         this.limit = limit;
-        this.borrowed = 0;  //Initially, no books have been borrowed.
-        this.cardRef = "cardID " + cardNum;  //The card reference is "cardID " followed by the card number
+        this.borrowed = 0;  
+        this.cardRef = "cardID " + cardNum;  
     }
 
-    //method to 'swipe' the card, increasing the number of books borrowed
+    /**
+     * Increments number of books borrowed 
+     */
     public void swipe() {
         this.borrowed++;
     }
 
-    //method to check if the card has expired
+    /**
+     * Checks if card borrowing limit reached 
+     * @return True if limit reached, false otherwise
+     */
     public boolean expired() {
-        return this.borrowed >= this.limit;  //The card has expired if the borrowing limit has been reached
+        return this.borrowed >= this.limit;  
     }
 
-      //method to print a description of the card
+      /**
+     * Gets description of card state  
+     * @return Description with books left 
+     */
     public String getDescription() {
-        int booksLeft = this.limit - this.borrowed;//Calculate the number of books left that can be borrowed
-        return "Library card " + this.cardRef + " with " + booksLeft + " books left";//Print the description
+        int booksLeft = this.limit - this.borrowed;
+        return "Library card " + this.cardRef + " with " + booksLeft + " books left";
     }
 }
