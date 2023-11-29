@@ -39,6 +39,7 @@ public class StudentTest
         // Simulate the card being expired
         LibraryCard expiredCard = new LibraryCard(0, 0);
         assertTrue(student.finishedStudies());
+
     }
 
     @Test
