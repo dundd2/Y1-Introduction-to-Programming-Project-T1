@@ -1,0 +1,308 @@
+C:\Users\duncan>
+C:\Users\duncan>cd "C:\Users\duncan\Downloads\Y1-Introduction-to-Programming-Project-T1\Project T1 Week 11"
+
+C:\Users\duncan\Downloads\Y1-Introduction-to-Programming-Project-T1\Project T1 Week 11>javac College.java
+
+C:\Users\duncan\Downloads\Y1-Introduction-to-Programming-Project-T1\Project T1 Week 11>java College 10 15 100
+Step 1
+The college currently has 10 hard-working students
+The library has 15 books left on the shelf and has issued 10 library cards
+Step 2
+The college currently has 10 hard-working students
+The library has 14 books left on the shelf and has issued 10 library cards
+Step 3
+The college currently has 10 hard-working students
+The library has 13 books left on the shelf and has issued 10 library cards
+Step 4
+The college currently has 10 hard-working students
+The library has 12 books left on the shelf and has issued 10 library cards
+Step 5
+The college currently has 10 hard-working students
+The library has 11 books left on the shelf and has issued 10 library cards
+Step 6
+The college currently has 10 hard-working students
+The library has 10 books left on the shelf and has issued 10 library cards
+Step 7
+The college currently has 10 hard-working students
+The library has 10 books left on the shelf and has issued 10 library cards
+Step 8
+The college currently has 10 hard-working students
+The library has 9 books left on the shelf and has issued 10 library cards
+Step 9
+The college currently has 10 hard-working students
+The library has 9 books left on the shelf and has issued 10 library cards
+Step 10
+The college currently has 10 hard-working students
+The library has 9 books left on the shelf and has issued 10 library cards
+Step 11
+The college currently has 10 hard-working students
+The library has 8 books left on the shelf and has issued 10 library cards
+Step 12
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 13
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 14
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 15
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 16
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 17
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 18
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 19
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 20
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 21
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 22
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 23
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 24
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 25
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 26
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 27
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 28
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 29
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 30
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 31
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 32
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 33
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 34
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 35
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 36
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 37
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 38
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 39
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 40
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 41
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 42
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 43
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 44
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 45
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 46
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 47
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 48
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 49
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 50
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 51
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 52
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 53
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 54
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 55
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 56
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 57
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 58
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 59
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 60
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 61
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 62
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 63
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 64
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 65
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 66
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 67
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 68
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 69
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 70
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 71
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 72
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 73
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 74
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 75
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 76
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 77
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 78
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 79
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 80
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 81
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 82
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 83
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 84
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 85
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 86
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 87
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 88
+The college currently has 10 hard-working students
+The library has 7 books left on the shelf and has issued 10 library cards
+Step 89
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 90
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 91
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 92
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 93
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 94
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 95
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 96
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 97
+The college currently has 10 hard-working students
+The library has 6 books left on the shelf and has issued 10 library cards
+Step 98
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 99
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+Step 100
+The college currently has 10 hard-working students
+The library has 5 books left on the shelf and has issued 10 library cards
+
+C:\Users\duncan\Downloads\Y1-Introduction-to-Programming-Project-T1\Project T1 Week 11>

@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Student
-comment0.text=\r\n\ The\ Student\ class\ represents\ a\ college\ student\ who\ can\ borrow\ textbooks\ from\ the\ library.\r\n\ @author\ duncan\r\n\ @version\ \r\n
+comment0.text=\r\n\ The\ Student\ class\ represents\ a\ college\ student\ who\ can\ borrow\ textbooks\ from\ the\ library.\r\n\ @author\ \ Duncan\r\n\ @version\ 29-11-2023\r\n
 comment1.params=name\ library
 comment1.target=Student(java.lang.String,\ Library)
 comment1.text=\r\n\ Constructor\ to\ initialize\ a\ new\ Student\ object.\r\n\ @param\ name\ The\ name\ of\ the\ student\r\n\ @param\ library\ The\ library\ the\ student\ joins\r\n

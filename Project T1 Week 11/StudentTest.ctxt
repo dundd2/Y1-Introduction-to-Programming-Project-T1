@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentTest
+comment0.text=\r\n\ The\ test\ class\ StudentTest.\r\n\r\n\ @author\ \ Duncan\r\n\ @version\ 29-11-2023\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ testFinishedStudiesWithoutBookAndExpiredCard()
+comment4.params=
+comment4.target=void\ testFinishedStudiesWithBookAndExpiredCard()
+comment5.params=
+comment5.target=void\ testStudyMethod()
+comment6.params=
+comment6.target=void\ testDescribeMethod()
+numComments=7

@@ -1,16 +1,16 @@
 /**  
  * Represents a textbook in the library
- * @author duncan   
- * @version 1.0
-*/
+ * @author  Duncan
+ * @version 29-11-2023
+ */
 public class TextBook {
 
     /** Title of the textbook */
     private String title;
-    
+
     /** Number of chapters */
     private int length;
-    
+
     /** Last chapter read */ 
     private int lastChapterRead;
 
@@ -66,7 +66,7 @@ public class TextBook {
         int chaptersLeft = this.length - this.lastChapterRead;
         System.out.println(this.title + " with " + chaptersLeft + " chapters left to read");
     }
-    
+
     /**
      * Gets number of chapters left
      * @return Chapters left

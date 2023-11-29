@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=TextBook
-comment0.text=\ \ \r\n\ Represents\ a\ textbook\ in\ the\ library\r\n\ @author\ duncan\ \ \ \r\n\ @version\ 1.0\r\n
+comment0.text=\ \ \r\n\ Represents\ a\ textbook\ in\ the\ library\r\n\ @author\ \ Duncan\r\n\ @version\ 29-11-2023\r\n
 comment1.params=title\ length
 comment1.target=TextBook(java.lang.String,\ int)
 comment1.text=\r\n\ Constructor\ to\ initialize\ new\ TextBook\r\n\ @param\ title\ Title\ of\ book\r\n\ @param\ length\ Number\ of\ chapters\ \ \r\n

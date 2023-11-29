@@ -1,19 +1,19 @@
 /**
  * The Student class represents a college student who can borrow textbooks from the library.
- * @author duncan
- * @version 
-*/
+ * @author  Duncan
+ * @version 29-11-2023
+ */
 public class Student {
 
     /** The name of the student */
     private String name;
-    
+
     /** The library the student joins */
     private Library library;
-    
+
     /** The student's library card */
     private LibraryCard libraryCard;
-    
+
     /** The textbook currently borrowed by student */
     private TextBook currentTextBook;
 
@@ -54,7 +54,7 @@ public class Student {
             currentTextBook = null;
         }
     }
-    
+
     /**
      * Prints out messages about the student's current state
      */
@@ -67,7 +67,7 @@ public class Student {
             return "does not have a book and " + libraryCard.getDescription();
         } else {
             return "has a book " + currentTextBook.getTitle() + " with " + currentTextBook.getChaptersLeft() + 
-                    " chapters left.\nThe student is " + (currentTextBook.isFinished() ? "not reading" : "reading the book.");
+            " chapters left.\nThe student is " + (currentTextBook.isFinished() ? "not reading" : "reading the book.");
         }
     }
 }

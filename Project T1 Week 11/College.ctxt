@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=College
-comment0.text=\r\n\ The\ College\ class\ simulates\ a\ college\ with\ a\ library\ and\ students.\ \r\n\ @author\ dncan\r\n\ @version\ 1.0\ \r\n
+comment0.text=\r\n\ The\ College\ class\ simulates\ a\ college\ with\ a\ library\ and\ students.\ \r\n\ @author\ \ Duncan\r\n\ @version\ 29-11-2023\r\n
 comment1.params=numStudents\ numBooks
 comment1.target=College(int,\ int)
 comment1.text=\r\n\ Constructor\ to\ initialize\ a\ new\ College\ object.\r\n\ @param\ numStudents\ Number\ of\ enrolled\ students\ \ \ \r\n\ @param\ numBooks\ Number\ of\ textbooks\ in\ library\ \ \r\n

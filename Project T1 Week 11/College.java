@@ -3,8 +3,8 @@ import java.util.Random;
 
 /**
  * The College class simulates a college with a library and students. 
- * @author dncan
- * @version 1.0 
+ * @author  Duncan
+ * @version 29-11-2023
 */  
 public class College {
 

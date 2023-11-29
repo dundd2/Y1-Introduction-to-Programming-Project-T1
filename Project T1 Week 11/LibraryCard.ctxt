@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=LibraryCard
-comment0.text=\r\n\ Represents\ a\ library\ card\ used\ to\ borrow\ books\ \ \r\n\ @author\ duncan\r\n\ @version\ 1.0\r\n
+comment0.text=\r\n\ Represents\ a\ library\ card\ used\ to\ borrow\ books\ \ \r\n\ @author\ \ Duncan\r\n\ @version\ 29-11-2023\r\n
 comment1.params=limit\ cardNum
 comment1.target=LibraryCard(int,\ int)
 comment1.text=\r\n\ Constructor\ to\ initialize\ a\ new\ LibraryCard\ \ \r\n\ @param\ limit\ Borrowing\ limit\r\n\ @param\ cardNum\ Card\ number\r\n

@@ -1,16 +1,16 @@
 /**
  * Represents a library card used to borrow books  
- * @author duncan
- * @version 1.0
-*/
+ * @author  Duncan
+ * @version 29-11-2023
+ */
 class LibraryCard {
 
     /** Borrowing limit */
     private int limit;
-    
+
     /** Number of books borrowed */ 
     private int borrowed;
-    
+
     /** Card reference ID */
     private String cardRef;
 
@@ -40,7 +40,7 @@ class LibraryCard {
         return this.borrowed >= this.limit;  
     }
 
-      /**
+    /**
      * Gets description of card state  
      * @return Description with books left 
      */
