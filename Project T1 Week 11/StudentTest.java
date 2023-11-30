@@ -17,7 +17,7 @@ public class StudentTest
     @BeforeEach
     public void setUp()
     {
-        library = new Library(5); // You might want to adjust the number of books
+        library = new Library(5);
         student = new Student("TestStudent", library);
     }
 
@@ -30,29 +30,30 @@ public class StudentTest
 
     @Test
     public void testFinishedStudiesWithoutBookAndExpiredCard() {
+        LibraryCard expiredCard = new LibraryCard(0, 0);
+        student.setLibraryCard(expiredCard);
         assertTrue(student.finishedStudies());
     }
 
     @Test
     public void testFinishedStudiesWithBookAndExpiredCard() {
-        student.study(); // Borrow a book
-        // Simulate the card being expired
         LibraryCard expiredCard = new LibraryCard(0, 0);
+        student.setLibraryCard(expiredCard);
+        student.study();
         assertTrue(student.finishedStudies());
-
     }
 
     @Test
     public void testStudyMethod() {
-        student.study(); // Borrow a book
-        student.study(); // Read one chapter
-        student.study(); // Finish the book
-        assertFalse(student.finishedStudies()); // Should be false after finishing the book
+        student.study(); 
+        student.study(); 
+        student.study();
+        assertFalse(student.finishedStudies()); 
     }
 
     @Test
     public void testDescribeMethod() {
-        student.study(); // Borrow a book
-        student.describe(); // For demonstration purposes, print student state
+        student.study(); 
+        student.describe(); 
     }
 }

@@ -70,4 +70,9 @@ public class Student {
             " chapters left.\nThe student is " + (currentTextBook.isFinished() ? "not reading" : "reading the book.");
         }
     }
+
+    public void setLibraryCard(LibraryCard libraryCard) {
+        this.libraryCard = libraryCard;
+    }
+
 }
