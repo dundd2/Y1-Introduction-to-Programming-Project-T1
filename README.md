@@ -1,4 +1,4 @@
-This is a java project created for the G5066 Introduction to Programming Assignments Project T1 Week 7 and Project T1 Week 11 in Nov 2023. For more information please check that 2 docx. 
+This is a java project created for the G5066 Introduction to Programming Assignments Project T1 Week 7 and Project T1 Week 11 in Nov 2023. For more information please check the docx flie. 
 This GitHub repository contains a Java program simulating a college environment with a library, students, and textbooks. The simulation is split into two parts: an initial project and a follow-up assignment, both focused on object-oriented programming principles.
 
 Part 1: Library Management System
