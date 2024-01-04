@@ -1,4 +1,4 @@
-This is a website project created for the Computing Project Homework-TokiPonaSpellChecker in March 2023. For more information please check that 2 docx. 
+This is a java project created for the G5066: Introduction to Programming in Nov 2023. For more information please check that 2 docx. 
 This GitHub repository contains a Java program simulating a college environment with a library, students, and textbooks. The simulation is split into two parts: an initial project and a follow-up assignment, both focused on object-oriented programming principles.
 
 Part 1: Library Management System
