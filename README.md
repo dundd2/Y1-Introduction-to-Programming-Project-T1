@@ -1,6 +1,6 @@
-### This is a java project created for the G5066 Introduction to Programming Assignments Project T1 Week 7 and Project T1 Week 11 in Nov 2023. For more information please check the docx file. 
+# Y1-Introduction-to-Programming-Project-T1
 
-# Java Programming Projects Showcase
+This is a java project created for the G5066 Introduction to Programming Assignments Project T1 Week 7 and Project T1 Week 11 in Nov 2023. For more information please check the docx file. 
 
 This repository showcases my Java programming skills through two projects: a **Library Management System (Project T1 Week 7)** and its extension **(Project T1 Week 11)**. These projects demonstrate proficiency in object-oriented programming, data structures, and software testing. Both received high marks, highlighting my attention to detail and problem-solving abilities.
 
